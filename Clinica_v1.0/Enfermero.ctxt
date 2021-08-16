@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Enfermero
+comment0.text=\r\n\ Clase\ que\ sirve\ para\ crear\ las\ instancias\ enfermero\r\n
+comment1.params=nombre\ apellido1\ apellido2
+comment1.target=Enfermero(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=baseDatos\ nombrePrueba
+comment2.target=void\ printPruebasRealizadas(BaseDatos,\ java.lang.String)
+comment2.text=\r\n\ Imprime\ una\ lista\ de\ todas\ las\ pruebas\ del\ tipo\ seleccionado\ que\ ha\ realizado\ el\ enfermero\r\n\ @param\:\ basedatos,\ nombrePrueba\r\n\ @post\:\ lista\ de\ las\ pruebas\ del\ tipo\ seleccionado\ hechas\ por\ el\ enfermero\r\n
+comment3.params=baseDatos\ nombreVacuna
+comment3.target=void\ printVacunasRealizadas(BaseDatos,\ java.lang.String)
+comment3.text=\r\n\ Imprime\ las\ vacunas\ realizadas\r\n\ @param\ baseDatos,\ nombreVacuna\r\n\ @post\ lista\ impresa\ con\ las\ vacunas\ realizadas\r\n
+comment4.params=baseDatos\ nombrePrueba\ nombrePaciente\ nombreTecnico
+comment4.target=void\ realizarPrueba(BaseDatos,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Realizar\ una\ prueba\r\n\ @param\ baseDatos,\ nombrePrueba,\ nombrePaciente,\ nombreTecnico\r\n\ @post\ crea\ un\ objeto\ de\ la\ prueba\ solicitada\ y\ lo\ almacena\ en\ la\ base\ de\ datos\r\n
+comment5.params=baseDatos\ nombreVacuna\ nombrePaciente
+comment5.target=void\ administrarVacuna(BaseDatos,\ java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Adminstra\ una\ vacuna\r\n\ @param\ baseDatos,\ nombreVacuna,\ nombrePaciente\r\n\ @post\ vacuna\ a\u00F1adida\ a\ la\ lista\ vacunasAdministradas\ en\ la\ base\ de\ datos\r\n
+comment6.params=baseDatos
+comment6.target=void\ printListaPacientes(BaseDatos)
+comment6.text=\r\n\ Imprime\ un\ listado\ de\ los\ pacientes\ asignados\ al\ enfermero\r\n
+numComments=7

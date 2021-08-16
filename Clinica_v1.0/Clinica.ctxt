@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Clinica
+comment0.text=\r\n\ Clase\ principal\ que\ contiene\ el\ m\u00E9todo\ main()\ para\ iniciar\ el\ programa\r\n
+comment1.params=
+comment1.target=Clinica()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Inicia\ el\ programa\ Clinica\r\n
+comment3.params=
+comment3.target=void\ guardarSesion()
+comment3.text=\r\n\ Guarda\ los\ datos\ de\ la\ interfaz\ en\ un\ archivo\ txt\r\n
+comment4.params=
+comment4.target=Interfaz\ abrirSesion()
+comment4.text=\r\n\ Almacena\ en\ la\ variable\ interfaz\ los\ datos\ guardados\ en\ el\ archivo\ txt\r\n
+numComments=5

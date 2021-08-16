@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PCR
+comment0.text=\r\n\ Clase\ para\ crear\ las\ instancias\ PCR\r\n
+comment1.params=nombrePaciente\ nombreEnfermero\ nombreTecnico
+comment1.target=PCR(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFechaValidez()
+comment2.text=\r\n\ Devuelve\ la\ fecha\ en\ la\ que\ la\ validez\ de\ la\ prueba\ caduca\r\n\ @return\:\ fechaCaducidad\r\n
+numComments=3

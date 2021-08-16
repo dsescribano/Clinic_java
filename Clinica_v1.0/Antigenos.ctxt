@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Antigenos
+comment0.text=\r\n\ Clase\ para\ crear\ las\ instancias\ Antigeno\r\n
+comment1.params=nombrePaciente\ nombreEnfermero\ nombreTecnico
+comment1.target=Antigenos(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Serologico
+comment0.text=\r\n\ Clase\ para\ crear\ las\ instancias\ Serologico\r\n
+comment1.params=nombrePaciente\ nombreEnfermero\ nombreTecnico
+comment1.target=Serologico(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFechaValidez()
+comment2.text=\r\n\ Devuelve\ la\ fecha\ en\ la\ que\ la\ validez\ de\ la\ prueba\ caduca\r\n\ @return\:\ fechaCaducidad\r\n
+comment3.params=anticuerpos
+comment3.target=void\ setAnticuerpos(int)
+comment3.text=\r\n\ Establece\ el\ nivel\ de\ anticuerpos\ recogido\ en\ la\ prueba\r\n\ @post\:\ nivel\ de\ anticuerpos\ establecido\r\n
+comment4.params=
+comment4.target=int\ getAnticuerpos()
+comment4.text=\r\n\ Devuelve\ el\ n\u00FAmero\ de\ anticuerpos\ obtenidos\ en\ la\ prueba\r\n
+comment5.params=
+comment5.target=java.lang.String\ getInmunidad()
+comment5.text=\r\n\ Devuelve\ el\ resultado\ de\ inmunidad\ de\ la\ prueba\r\n
+numComments=6

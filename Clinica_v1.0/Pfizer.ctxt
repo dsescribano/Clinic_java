@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pfizer
+comment0.text=\r\nClase\ para\ crear\ las\ instancias\ Pfizer\r\n
+comment1.params=nombrePaciente\ nombreEnfermero
+comment1.target=Pfizer(java.lang.String,\ java.lang.String)
+numComments=2

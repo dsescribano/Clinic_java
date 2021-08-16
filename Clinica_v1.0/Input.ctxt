@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\r\n\ Obtiene\ la\ informacion\ almacenada\ en\ la\ base\ de\ datos\ del\ archivo\ baseDatos.txt\r\n
+comment1.params=
+comment1.target=Input()
+comment2.params=
+comment2.target=void\ abrir()
+comment2.text=\r\n\ Abre\ el\ archivo\ txt\ en\ el\ que\ estan\ almacenados\ los\ datos\ de\ la\ base\ de\ datos\r\n\ @post\:\ objetos\ file\ e\ input\ creados\r\n\ @throw\:\ IOException\r\n
+comment3.params=
+comment3.target=void\ cerrar()
+comment3.text=\r\n\ Cierra\ el\ archivo\ txt\r\n\ @throw\:\ IOException\r\n
+comment4.params=
+comment4.target=Interfaz\ leer()
+comment4.text=\r\n\ Obtiene\ la\ informacion\ guardada\ en\ el\ archivo\ txt\ y\ la\ devuelve\ como\ un\ objeto\ de\ la\ clase\ BaseDatos\r\n\ @return\:\ baseDatosGuardada\r\n\ @throw\:\ IOException,\ ClassNotFoundException\r\n
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Output
+comment0.text=\r\n\ Genera\ el\ archivo\ txt\ en\ el\ que\ se\ guarda\ la\ base\ de\ datos\ del\ programa\r\n\ y\ guarda\ la\ misma\ en\ dicho\ archivo\r\n
+comment1.params=
+comment1.target=Output()
+comment2.params=
+comment2.target=void\ abrir()
+comment2.text=\r\n\ Crea\ el\ archivo\ txt\ en\ el\ que\ se\ guardan\ los\ datos\r\n\ @post\ objetos\ file\ y\ output\ de\ las\ clases\ FileOutputStream\ y\ ObjectOutput\ creadas\r\n
+comment3.params=
+comment3.target=void\ cerrar()
+comment3.text=\r\n\ Cierra\ el\ archivo\ baseDatos.txt\ cuando\ deja\ de\ ser\ usado\r\n
+comment4.params=interfaz
+comment4.target=void\ escribir(Interfaz)
+comment4.text=\r\n\ Guarda\ el\ objeto\ baseDatos\ introducido\ como\ par\u00E1metro\ en\ el\ archivo\ baseDatos.txt\r\n
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TecnicoDeLaboratorio
+comment0.text=\r\n\ Clase\ que\ sirve\ para\ crear\ las\ instancias\ TecnicoDeLaboratorio\r\n
+comment1.params=nombre\ apellido1\ apellido2
+comment1.target=TecnicoDeLaboratorio(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=baseDatos
+comment2.target=void\ printPruebasProcesadas(BaseDatos)
+comment2.text=\r\n\ Imprime\ una\ lista\ de\ las\ pruebas\ procesadas\ por\ el\ tecnico\r\n\ @param\ baseDatos\r\n\ @post\ lista\ con\ las\ pruebas\ procesadas\r\n
+comment3.params=baseDatos\ nombrePaciente\ nombrePrueba\ key\ positivo
+comment3.target=void\ resultadoPrueba(BaseDatos,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment3.text=\r\n\ Establece\ el\ resultado\ de\ la\ prueba\ realizada(PCR\ o\ antigenos)\ y\ el\ estado\ del\ paciente\r\n\ @param\ baseDatos,\ nombrePaciente,\ nombrePrueba,\ key,\ positivo\r\n
+comment4.params=baseDatos\ nombrePaciente\ key\ anticuerpos
+comment4.target=void\ resultadoPruebaSerologica(BaseDatos,\ java.lang.String,\ java.lang.String,\ int)
+comment4.text=\r\n\ Establece\ el\ resultado\ de\ la\ prueba\ serol\u00F3gica\ y\ la\ inmunidad\ del\ paciente\r\n\ @param\ baseDatos,\ nombrePaciente,\ key\ y\ anticuerpos\r\n
+numComments=5

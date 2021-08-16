@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Vacuna
+comment0.text=\r\n\ Clase\ que\ sirve\ como\ herencia\ para\r\n\ las\ clases\ que\ implementar\u00E1n\ los\ distintos\r\n\ tipos\ de\ vacunas\r\n
+comment1.params=nombrePaciente\ nombreEnfermero
+comment1.target=Vacuna(java.lang.String,\ java.lang.String)
+comment2.params=nombreVacuna
+comment2.target=void\ setNombreVacuna(java.lang.String)
+comment2.text=\r\n\ Establece\ el\ nombre\ de\ la\ vacuna\ creada\r\n\ @param\ nombreVacuna\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombreVacuna()
+comment3.text=\r\n\ Obtiene\ el\ nombre\ de\ la\ vacuna\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNombrePaciente()
+comment4.text=\r\n\ Devuelve\ el\ nombre\ del\ paciente\r\n
+comment5.params=
+comment5.target=java.lang.String\ getFechaVacuna()
+comment5.text=\r\n\ Devuelve\ la\ fecha\ de\ administraci\u00F3n\ de\ la\ vacuna\r\n
+comment6.params=
+comment6.target=java.lang.String\ getNombreEnfermero()
+comment6.text=\r\n\ Devuelve\ el\ nombre\ del\ enfermero\ que\ administra\ la\ vacuna\r\n
+numComments=7

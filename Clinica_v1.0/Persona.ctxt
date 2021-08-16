@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Clase\ que\ sirve\ como\ herencia\ para\ las\ distintas\ clases\ que\ representan\ las\ personas\ que\ se\ almacenan\ y\ hacen\ uso\ del\ programa\r\n
+comment1.params=nombre\ apellido1\ apellido2
+comment1.target=Persona(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ Devuelve\ el\ nombre\ de\ la\ persona\r\n\ @return\:\ nombre\r\n
+comment3.params=nombre\ apellido1\ apellido2
+comment3.target=void\ setNombre(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Cambia\ el\ nombre\ de\ la\ persona\r\n
+numComments=4
